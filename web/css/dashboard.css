@@ -1,0 +1,37 @@
+.nav-item i{
+
+font-size:15px; 
+color:white
+
+}
+.nav-item{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 768px) {
+
+.nav-link{
+   visibility: hidden;
+    
+  }
+.nav-link i{
+   visibility: visible;
+   font-size:25px; 
+    
+  }
+.nav-item{
+
+width:30px; 
+
+}
+
+
+
+
+}

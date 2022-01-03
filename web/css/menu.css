@@ -1,0 +1,29 @@
+#kayit-icerik{
+	margin-top: 80px;
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+#kayit-icerik{
+	margin-top: 200px;
+}
+
+.resim{
+	margin-top: 50px;
+}
+.resim h1{
+	margin-top: 120px;
+}
+.resim a{
+	margin-top: 20px;
+}
+
+.card-deck img{
+	height: 200px;
+	width: 100%;
+	object-fit: cover;
+}
+
+}
